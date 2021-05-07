@@ -6,7 +6,7 @@
 
 <body> 
 	<h1>PHP 1663Test</h1>
-		<p><b>An Example for  Mayank modi ` PHP in Action</b></p>
+		<p><b>An Example for  Mayank modi Openshift Traning ` PHP in Action</b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information VERSION2 </h2> 
