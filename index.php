@@ -6,7 +6,7 @@
 
 <body> 
 	<h1>PHP 2021 Test</h1>
-		<p><b>  Mayank modi Version8</b></p>
+		<p><b>  Mayank modi Version9</b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information VERSION2 </h2> 
