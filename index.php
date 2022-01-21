@@ -5,7 +5,7 @@
 	</head>
 
 <body> 
-	<h1>PHP 2021  Test</h1>
+	<h1>PHP 2022  Test</h1>
 		<p><b>  Mayank modi DANSKEIT BANK </b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
