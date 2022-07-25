@@ -6,10 +6,10 @@
 
 <body> 
 	<h1>PHP 2022  Test</h1>
-		<p><b>Amdocs Session </b></p>
+		<p><b>AmdocsNA Session</b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
-	<h2>PHP Information VERSION 3 </h2> 
+	<h2>PHP Information </h2> 
 		<p> <?php phpinfo(); ?> </p> 
 	</body> 
 </html>
