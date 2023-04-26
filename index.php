@@ -5,8 +5,8 @@
 	</head>
 
 <body> 
-	<h1>Mayank MOdis Application </h1>
-		<p><b>Openshift Batch</b></p>
+	<h1>Mayank MOdi</h1>
+		<p><b>Openshift Batch DanskeIT Bank</b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information </h2> 
