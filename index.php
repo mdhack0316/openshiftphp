@@ -7,7 +7,7 @@
 <body> 
 	<h1>Mayank MOdi</h1>
 		<p><b>Openshift Batch ABB Version 7</b></p>
-		<?php echo "AAThe Current Date and yes las  Time is: <br />";
+		<?php echo "AAAThe Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information </h2> 
 		<p> <?php phpinfo(); ?> </p> 
