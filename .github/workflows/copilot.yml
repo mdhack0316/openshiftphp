@@ -23,6 +23,6 @@ jobs:
           # Inject your PAT into the CLI environment
           COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_PAT }} 
         run: |
-          copilot --model openai-gpt-5.6-luna \
+          copilot --model gpt-4 \
             -p "Use the review-doc-organizer  agent and perform a code review." \
             -s --no-ask-user
